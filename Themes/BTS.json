@@ -1,6 +1,6 @@
 {
     "__JSON__": true,
-    "AUTHOR": "Maher Zubair",
+    "AUTHOR": "ADRIEN",
     "theme": "BTS",
     "LANGUAGE": "English",
     "LANGCODE": "en",
@@ -13,7 +13,7 @@
         "global": { 
             "botName": " SIGMA-MD",
             "body": "whatsapp Bot",
-            "greet2" : "Thanks To Maher Zubair",
+            "greet2" : "Thanks To ADRIEN",
             "pic1": "https://telegra.ph/file/3e5cc2c73f16137a81f35.jpg", 
             "pic2": "https://telegra.ph/file/2d9803729909bb98df141.jpg", 
             "pic3": "https://telegra.ph/file/185db68774b3d6e6cb7f8.jpg", 
@@ -39,7 +39,7 @@
             "title": "sɪɢᴍᴀ ᴹᴰ",
             "theme": "BTS",
             "footer": "ᴍᴀʜᴇʀ ᴢᴜʙᴀɪʀ\nwww.youtube.com",
-            "by": "Made by: ᴍᴀʜᴇʀ ᴢᴜʙᴀɪʀ",
+            "by": "Made by: ADRIEN",
             "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
             "success": "Done ✓",
             "dot": "Hi, Did you mean *-help?*\n just.. don't bother me while I'm eating MF",
